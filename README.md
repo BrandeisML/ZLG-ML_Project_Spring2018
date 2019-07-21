@@ -6,3 +6,8 @@ trainsample is the original data and it is a table.
 X is the features of trainsample and is a table
 y is the result of trainsample and is an array of doubles
 XNew contains the columns (in this order) ip,app,device,os,channel,datenum (of the dates) and is an array of doubles
+
+Work distribution:
+Brian Gao: data preprocessing & testing
+Han Zheng: model selection & parameter tuning
+Ruoshi Liu: data augmentation & post-processing
